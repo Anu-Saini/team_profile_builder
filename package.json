@@ -1,0 +1,34 @@
+{
+  "name": "sampletesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "Node index.js"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "express": "^4.18.1",
+    "inquirer": "^6.5.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anu-Saini/sampletesting.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Anu-Saini/sampletesting/issues"
+  },
+  "homepage": "https://github.com/Anu-Saini/sampletesting#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
