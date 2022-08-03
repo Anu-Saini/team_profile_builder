@@ -69,7 +69,7 @@ the walkthrough of the functionality of the code from initiating the application
 
 ## Functionality of code images 
 -To initiate our CLI application we need to run ' node index.js'
-(./images/node start.jpg)
+(.\images\node start.jpg)
 
 -The application will prompt us to enter the details of the employee as a manager followed by the choice of entering another employee or exiting the application.  
 (./images/manager details.jpg)
